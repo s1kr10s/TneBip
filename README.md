@@ -2,7 +2,7 @@
 Obtener mediante bruteforce el codigo de github
 
 
-USO:
+USO:\n
 
 usage: tnebip.py [-h] -r RUT
 optional arguments:
