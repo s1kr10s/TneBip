@@ -37,7 +37,7 @@ print logo
 
 ap = argparse.ArgumentParser()
 ap.add_argument("-r", "--rut", required=True,
-                help='Rut Ej: -r ( 11111111-1 o 11.111.111-1)')
+                help='Ej: -r ( 11111111-1 o 11.111.111-1)')
 args = vars(ap.parse_args())
 
 
