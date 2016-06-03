@@ -1,5 +1,5 @@
 # TneBip
-Obtener mediante bruteforce el codigo de github
+Obtener mediante bruteforce el codigo de la tarjeta bip
 
 
 USO:
